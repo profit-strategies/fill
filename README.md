@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/profit-strategies/fill.png)](http://travis-ci.org/profit-strategies/fill)
 
 ## NOT READY FOR PRODUCTION
 
